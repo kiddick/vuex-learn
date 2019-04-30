@@ -1,4 +1,5 @@
 # vuex-learn
+This repo related to Vuex Tutorial https://www.youtube.com/watch?v=BGAu__J4xoc&list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2
 
 ## Project setup
 ```
